@@ -1,14 +1,15 @@
-a = print(1+2)
+""" This Code does Nothing """
+A = print(1+2)
 
-b = print(3+4)
+B = print(3+4)
 
-c = 7
-a=10
-B=3
-C=a+B
+C = 7
+A1=10
+B1=3
+C=A1+B1
 
 if C==13:
     print("answer is 20")
 else:
     print("wrong answer")
-print(c)
+print(C)
